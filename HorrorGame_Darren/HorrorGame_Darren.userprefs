@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ScriptsDLJ\colNumUpdate.cs">
+    <Files>
+      <File FileName="Assets\ScriptsDLJ\SceneFadeInOut.cs" Line="85" Column="34" />
+      <File FileName="Assets\ScriptsDLJ\resetToStart.cs" Line="22" Column="24" />
+      <File FileName="Assets\ScriptsDLJ\colNumUpdate.cs" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
